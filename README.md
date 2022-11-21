@@ -1,8 +1,8 @@
-- 👋 Olá eu sou Michael 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 👋 Olá eu sou @heyMichaelS 
+- Michael Felipe Santos Silva , 26 anos
+- Moro em São josé dos Campos
+- Curso Banco de dados na FATEC - SJC - 4/6 
 
 
 <div align="center">
