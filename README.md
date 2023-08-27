@@ -3,7 +3,7 @@
 - Michael Felipe Santos Silva , 27 anos
 - Atualmente sou estagiário na empresa YOUTAN na função de QA
 - Moro em São josé dos Campos
-- Curso Banco de dados na FATEC - SJC - 4/6 
+- Curso Banco de dados na FATEC - SJC - 5/6 
 
 
 <div align="center">
