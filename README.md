@@ -1,9 +1,9 @@
 
 - 👋 Olá eu sou @heyMichaelS 
-- Michael Felipe Santos Silva , 27 anos
+- Michael Felipe Santos Silva , 28 anos
 - Atualmente sou estagiário na empresa YOUTAN na função de QA
 - Moro em São josé dos Campos
-- Curso Banco de dados na FATEC - SJC - 5/6 
+- Curso Banco de dados na FATEC - SJC - 6/6 
 
 
 <div align="center">
