@@ -1,7 +1,7 @@
 
 - 👋 Olá eu sou @heyMichaelS 
 - Michael Felipe Santos Silva , 28 anos
-- Atualmente sou estagiário na empresa YOUTAN na função de QA
+- Atualmente sou Analista de Qualidade Jr.
 - Moro em São josé dos Campos
 - Curso Banco de dados na FATEC - SJC - 6/6 
 
