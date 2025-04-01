@@ -1,9 +1,9 @@
 
 - 👋 Olá eu sou @heyMichaelS 
 - Michael Felipe Santos Silva , 29 anos
-- Atualmente sou Analista de Qualidade Jr.
+- Atualmente sou QA Engineer 
 - Moro em São josé dos Campos
-- Formação: Tecnólogo em Banco de dados na FATEC - SJC - 2024
+- Formado: Tecnólogo em Banco de dados na FATEC - SJC - 2024
 
 
 <div align="center">
